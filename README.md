@@ -1,2 +1,0 @@
-# spam-indihome
-Spam Indihome
